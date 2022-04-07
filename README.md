@@ -34,7 +34,7 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 | Comando | Descrição |
 | ------ | ------ |
 | `git stash` | Salva as mudanças ainda não comitadas em uma pilha temporária para uso posterior. |
-| `git stash lis`t | Faz a listagem das mudanças salvas na pilha temporária. |
+| `git stash list` | Faz a listagem das mudanças salvas na pilha temporária. |
 | `git stash apply` | Traz a alteração mais recente que foi salva para a branch atual. |
 | `git stash apply stash@{X}` | Traz a alteração de posição X que foi salva para a branch atual. |
 | `git stash drop` | Faz a remoção mais recente da pilha temporária. |
@@ -90,7 +90,6 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 | Comando | Descrição |
 | ------ | ------ |
 | `git reset --hard` | Desfaz todas as alterações que aconteceram em arquivos rastreados. |
-| `git reset --hard HEAD~1` | Desfaz o último commit. Se o commit for local, alterações são perdidas. No servidor ainda permanecem. |
 
 ## merge
 | Comando | Descrição |
