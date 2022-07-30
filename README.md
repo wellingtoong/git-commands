@@ -113,6 +113,11 @@ Alguns links que podem ajudar entender melhor sobre Git, comandos e fluxos.
 | `git merge <nome-da-branch>` | Mescla as mudanças presentes na <nome_da_branch> na branch corrente. |
 | `git merge <nome-da-branch-remota> <nome-da-branch>` | Faz um merge de uma branch em outra branch. |
 
+## cherry-pick
+| Comando | Descrição |
+| ------ | ------ |
+| `git cherry-pick <hash-do-commit>` | Faz a copia de um commit de uma ramificação para outra. |
+
 ## clean
 | Comando | Descrição |
 | ------ | ------ |
