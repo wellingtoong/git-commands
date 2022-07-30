@@ -7,7 +7,7 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 Alguns links que podem ajudar entender melhor sobre Git, comandos e fluxos.
 
 - [Git](https://git-scm.com/)
-- [Git Docs](git-scm.com/docs)
+- [Git Docs](https://git-scm.com/docs)
 - [Git Book](https://git-scm.com/book/en/v2)
 - [Git Branch Model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
